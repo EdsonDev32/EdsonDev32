@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Edson and I'm a Developer Front End | Javascript | HTML5 | CSS3 and React.js ....</p>
 
 ###
 
